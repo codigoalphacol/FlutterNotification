@@ -1,6 +1,12 @@
 # flutter_notifications
 
-A new Flutter project.
+Notificaciones con Flutter y Firebase
+
+Explicaciones del codigo en el canal 
+
+los invitamos para que se suscriban
+
+https://www.youtube.com/channel/UCqCqeYUukFVUleZpOb7_R1Q
 
 ## Getting Started
 
